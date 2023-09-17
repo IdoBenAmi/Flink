@@ -13,7 +13,7 @@ Created 3 layers:
 Very sorry for not having more time for building and creating docker compose!
 - Clone repository to Intellij
 - Make sure Flink 1.17 is installed
-- Build project (Maven) and install all dependencies
+- Build project (Maven) and install all dependencies - use JDK version 11.x (Project Settings)
 - Run DataStreamJob.java file
 
 ## TODOs
