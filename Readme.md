@@ -19,5 +19,5 @@ Very sorry for not having more time for building and creating docker compose!
 ## TODOs
 - Create a docker for my application
 - Create a docker compose file for running Flink cluster and my job
-- Creating interfaces for aggregation and filter,and use dependency injection for inject the wanted behaviour (tolls such as Google Guice, etc)
+- Creating interfaces for aggregation and filter, use dependency injection for inject the wanted behaviour (tolls such as Google Guice, etc)
  
